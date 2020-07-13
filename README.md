@@ -1,4 +1,4 @@
-# MSTs
+# MST
 
 This program reads in a text file that generates a Cartesian-style "map" of points.
 These points can exist on different types of "terrain" such that
